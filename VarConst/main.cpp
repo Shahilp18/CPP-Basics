@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
-    cout<<"Welcome to my GitHub";
+int main()
+{
+    cout << "Welcome to my GitHub";
 }
