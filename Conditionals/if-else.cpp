@@ -14,4 +14,6 @@ int main(){
     }else{
         cout<<"Shop is closed";
     }
+
 }
+
