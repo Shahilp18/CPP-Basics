@@ -41,7 +41,7 @@ class UIC{
         vector<string> getMajor(){
             return majors;
         }
-        //setter for vector
+        // setter for vector
         void setMajor(vector<string> m){
             majors = m;
         }
