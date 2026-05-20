@@ -6,7 +6,7 @@ I am documenting my journey of learning C++ from basics to advanced concepts and
 
 🌐 Connect With Me
 * LinkedIn
-👉 https://www.linkedin.com/in/shahilptl18/
+👉 https://www.linkedin.com/in/shahilp18/
 
 * Twitter (X)
 👉 https://x.com/Shahil1806
